@@ -1,0 +1,12 @@
+| **Threat Actor**                  | **Motives**                                        | **Typical Methods**                               |
+|-----------------------------------|----------------------------------------------------|--------------------------------------------------|
+| **Cybercriminals**                | Financial Gain, Data Theft                         | Ransomware, Phishing, Data Breaches, Fraud       |
+| **Hacktivists**                   | Political/Social Causes                            | Website Defacement, Data Leaks, Service Disruption |
+| **State-Sponsored Actors**        | Espionage                                         | Advanced Persistent Threats (APTs), Spyware, Data Exfiltration |
+| **Malicious Insiders**            | Personal Gain, Grievances, Competitive Advantage  | Data Theft, Sabotage, Unauthorized Access         |
+| **Unintentional Insiders**        | Accidental Data Breach                             | Mistakenly Falling for Phishing, Mismanagement of Data |
+| **Cyber Espionage Groups**        | Intellectual Property Theft                       | Data Mining, Advanced Phishing, Network Intrusions |
+| **Script Kiddies**                | Thrill, Notoriety                                 | Using Pre-Written Exploits, Basic Attacks        |
+| **Organized Crime Groups**        | Financial Gain, Large-Scale Fraud                 | Sophisticated Ransomware, Financial Fraud        |
+| **Threat Actors Targeting Supply Chain** | Indirect Access to Targeted Systems        | Attacking Third-Party Vendors, Compromising Partners |
+
